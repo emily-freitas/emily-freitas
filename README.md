@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;
-    <a href="https://instagram.com/em.yl_freitz" target="_blank">
+    <a href="https://instagram.com/_emyfrts" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
